@@ -54,6 +54,7 @@ Zero-spend budget, and a full cleanup at the end. DynamoDB backups and the DR bu
 ![Stack created](screenshots/01-stack-create-complete.png)
 ![Step Functions](screenshots/08-step-functions-succeeded.png)
 ![Athena](screenshots/09-athena-best-sellers.png)
-
+<img src="./cloud-cafe-architecture.png" alt="Architecture" width="600">
+![Architecture](./cloud-cafe-architecture.png)
 ## Cleanup proof
 ![Stack deleted](screenshots/11-cleanup-delete-complete.png)
